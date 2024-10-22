@@ -10,6 +10,8 @@ https://mi-fastapiciberseguridad-production.up.railway.app/
 ### Página Principal
 ![image](https://github.com/user-attachments/assets/944a6e20-3b28-4b1e-b05f-cd6da96aded6)
 
+![image](https://github.com/user-attachments/assets/c6b8fe10-5e69-4ccf-a88a-aff3357ae7b5)
+
 ![image](https://github.com/user-attachments/assets/7006fe28-ee34-48ac-9fa3-924d40bbac9d)
 
 ![image](https://github.com/user-attachments/assets/2f87b327-c49c-4c37-8e7f-0a43f6c15d8a)
